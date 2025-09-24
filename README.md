@@ -33,3 +33,6 @@ WARN [03-01|13:24:44.862] error reading inbox                      err="request 
 ```
 INFO [03-01|13:26:01.178] created block                            l2Block=1 l2BlockHash=a3a1db..3c1a2d
 ```
+
+## Celestia upgrades
+Please refer to celestia docs for network upgrades: https://docs.celestia.org/how-to-guides/participate#network-upgrades
